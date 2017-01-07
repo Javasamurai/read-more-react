@@ -34,4 +34,5 @@ render: function () {
         return (<div>{this.state.text}</div>)
     }
 }
-Window.ReadmoreText=ReadmoreText
+});
+window.ReadmoreText=ReadmoreText
